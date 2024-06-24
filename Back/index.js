@@ -15,7 +15,7 @@ console.log(`database name = '${db_name}'`)
 // Настройки для подключения к MySQL базе данных
 const connection = mysql.createConnection({
   host: db_host,
-  user: db_user, // Пользователь базы данных
+  user: db_us, // Пользователь базы данных
   password: db_psw, // Пароль пользователя
   database: db_name // Название базы данных
 });
@@ -29,49 +29,21 @@ connection.connect((err) => {
   console.log('Подключение к базе данных успешно');
 });
 
-// Пример выполнения запроса к базе данных
-/* connection.query('SELECT * FROM assortment', (err, results) => {
-  if (err) {
-    console.error('Ошибка выполнения запроса: ', err);
-    return;
-  }
-  console.log('Результаты запроса: ', results);
+// Маршрут для получения информации о товаре по ID
+app.get('/product/:id', (req, res) => {
+  const productId = req.params.id;
+  pool.query('SELECT * FROM products WHERE id = ?', [productId], (error, results) => {
+    if (error) {
+      return res.status(500).send('Ошибка при выполнении запроса к базе данных');
+    }
+    if (results.length === 0) {
+      return res.status(404).send('Товар не найден');
+    }
+    res.json(results[0]);
+  });
 });
- */
-const express = require('express')
-const app = express()
-const bodyParser = require('body-parser');
-
-app.use(cors())
-
-app.use(bodyParser.json());
-
-app.get('/', function (req, res) {
-  res.send('Hello World'+req.query.a)
-})
-
-
-app.post('/calculate', (req, res) => {
-  const { num1, num2, operation } = req.body;
-  let result;
-
-  switch(operation) {
-      case 'add':
-          result = Number(num1) + Number(num2);
-          break;
-      case 'subtract':
-          result = Number(num1) - Number(num2);
-          break;
-      case 'multiply':
-          result = Number(num1) * Number(num2);
-          break;
-      case 'divide':
-          result = Number(num1) / Number(num2);
-          break;
-  }
 
   res.status(200).json({ result: result });
-});
 app.listen(3000)
 // Закрытие соединения с базой данных
 connection.end();

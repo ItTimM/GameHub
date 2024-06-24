@@ -56,56 +56,44 @@
     <div class="banner-container">
         <img src="./img/intro.jpg" alt="Описание баннера" class="banner-image">
     </div>
-    <div class="products-container">
-        <script>
-            document.addEventListener('DOMContentLoaded', function() {
-              fetch('/product-cards')
-                .then(response => response.text())
-                .then(html => {
-                  document.getElementById('product-container').innerHTML = html;
-                })
-                .catch(error => console.error('Ошибка:', error));
+    <div class="products-container" id="products-container">
+      <!-- Карточки товаров будут добавлены здесь динамически -->
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        // Функция для создания HTML карточки товара
+        function createProductCard(product) {
+          return `
+            <div class="product-card">
+              <img src="${product.imagePath}" alt="${product.description}">
+              <h3>${product.name}</h3>
+              <p>${product.description}</p>
+              <span>${product.price}</span>
+            </div>
+          `;
+        }
+    
+        // Получаем контейнер для карточек товаров
+        const productsContainer = document.getElementById('products-container');
+    
+        // Запрашиваем информацию о товарах с сервера
+        axios.get('/product-cards')
+          .then(function (response) {
+            // Обрабатываем каждый товар и добавляем его в контейнер
+            response.data.forEach(function(product) {
+              productsContainer.innerHTML += createProductCard(product);
             });
-            </script>
-        <!-- Пример карточки товара -->
-        <div class="product-card">
-          <img src="путь_к_изображению_товара.jpg" alt="Описание товара">
-          <h3>Название товара</h3>
-          <p>Описание товара...</p>
-          <span>Цена товара</span>
-        </div>
-        <div class="product-card">
-            <img src="путь_к_изображению_товара.jpg" alt="Описание товара">
-            <h3>Название товара</h3>
-            <p>Описание товара...</p>
-            <span>Цена товара</span>
-          </div>
-          <div class="product-card">
-            <img src="путь_к_изображению_товара.jpg" alt="Описание товара">
-            <h3>Название товара</h3>
-            <p>Описание товара...</p>
-            <span>Цена товара</span>
-          </div>
-          <div class="product-card">
-            <img src="путь_к_изображению_товара.jpg" alt="Описание товара">
-            <h3>Название товара</h3>
-            <p>Описание товара...</p>
-            <span>Цена товара</span>
-          </div>
-          <div class="product-card">
-            <img src="путь_к_изображению_товара.jpg" alt="Описание товара">
-            <h3>Название товара</h3>
-            <p>Описание товара...</p>
-            <span>Цена товара</span>
-          </div>
-          <div class="product-card">
-            <img src="путь_к_изображению_товара.jpg" alt="Описание товара">
-            <h3>Название товара</h3>
-            <p>Описание товара...</p>
-            <span>Цена товара</span>
-          </div>
-        <!-- Добавьте больше карточек товаров сюда -->
-      </div>
+          })
+          .catch(function (error) {
+            console.error('Ошибка:', error);
+          });
+      });
+    </script>
+
+  </div>
+        
 </body>
 
 </html>
