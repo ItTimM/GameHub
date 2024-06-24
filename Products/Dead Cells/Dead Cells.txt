@@ -1,0 +1,64 @@
+ID: 588650
+
+Назавние: Dead Cells
+
+Жанр: Экшен Rogue-Like
+
+Разработчик: Motiot Twin
+
+Издатель: Motiot Twin
+
+Дата_выпуска: 7 авг. 2018 г.
+
+СИСТЕМНЫЕ ТРЕБОВАНИЯ
+МИНИМАЛЬНЫЕ:
+ОС *: Windows 7+
+Процессор: Intel i5+
+Оперативная память: 2 GB ОЗУ
+Видеокарта: Nvidia 450 GTS / Radeon HD 5750 or better
+Место на диске: 500 MB
+Дополнительно: DirectX 9.1+ or OpenGL 3.2+
+РЕКОМЕНДОВАННЫЕ:
+ОС *: Windows 7+
+Процессор: Intel i5+
+Оперативная память: 4 GB ОЗУ
+Видеокарта: Nvidia GTX 460 / Radeon HD 7800 or better
+Место на диске: 500 MB
+Дополнительно: DirectX 9.1+ or OpenGL 3.2+
+
+Описание: ОБ ЭТОЙ ИГРЕ
+Dead Cells — это экшен-платформер и метроидвания с элементами рогалика. Вас ждет огромный, постоянно меняющийся замок... Если, конечно, вы сможете победить его стражей. Никаких сохранений. Убивайте, умирайте, учитесь и пробуйте снова.
+
+
+В Dead Cells вы — подопытный алхимического эксперимента на проклятом острове, где все меняется и растет. Вы бессмертны, но беспомощны: чтобы передвигаться и сражаться, занимаете чужие тела.
+
+
+Но они-то не бессмертны! Когда тело изнашивается, вы снова в темнице и начинаете заново...
+
+
+«Рогаликвания» — нелинейный сюжет, одна жизнь и никаких сохранений. Открытые локации, мутации, способности и оружие остаются открытыми.
+
+
+Сложные, но честные бои, опасные враги и уворот кувырком — игра пощекочет нервы!"
+ЧИТАТЬ ДАЛЕЕ
+ОПИСАНИЕ КОНТЕНТА ДЛЯ ВЗРОСЛЫХ
+Разработчики описывают контент так:
+
+This is an action-platformer in which players control a reanimated corpse trying to escape an island prison. From a side-scrolling perspective, players explore platform environments while engaging in frenetic melee-style combat against fantastical creatures (e.g., skeletons, giant leeches, goblins). Players use punches, kicks, and gadgets (e.g., flame-thrower traps, grenades, arrow turrets) to kill enemies. Enemies emit large splatters of blood when injured/killed and sometimes break apart into bloody pieces; blood also stains the floors and walls of some areas.
+
+Цена: 499 pуб.
+
+Языки:
+			Интерфейс	Озвучка	Субтитры
+русский			✔		✔	✔
+английский		✔		✔	✔
+французский		✔		✔	✔
+китайский (упр.)	✔		✔	✔
+итальянский		✔		✔	✔
+
+
+
+
+Рейтинг: 16+
+
+Ссылка: https://store.steampowered.com/app/588650/Dead_Cells/

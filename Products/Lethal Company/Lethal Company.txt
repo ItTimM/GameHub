@@ -1,0 +1,53 @@
+ID: 1966720
+
+Назавние: Lethal Company
+
+Жанр: Adventure-Horror
+
+Разработчик: Zeekerss
+
+Издатель: Zeekerss
+
+Дата_выпуска: 24 окт. 2023 г.
+
+СИСТЕМНЫЕ ТРЕБОВАНИЯ
+МИНИМАЛЬНЫЕ:
+64-разрядные процессор и операционная система
+ОС: Windows 10
+Процессор: Intel Core i5-7400 CPU @ 3.00GHz ; Shader Model 5
+Видеокарта: NVIDIA GForce GTX 1050
+DirectX: версии 11
+Сеть: Широкополосное подключение к интернету
+Место на диске: 1 GB
+
+Описание: ОБ ЭТОЙ ИГРЕ
+
+You are a contracted worker for the Company. Your job is to collect scrap from abandoned, industrialized moons to meet the Company's profit quota. You can use the cash you earn to travel to new moons with higher risks and rewards--or you can buy fancy suits and decorations for your ship. Experience nature, scanning any creature you find to add them to your bestiary. Explore the wondrous outdoors and rummage through their derelict, steel and concrete underbellies. Just never miss the quota.
+
+
+
+
+These dangers prey upon the vulnerable and lonesome, and the protection of your crew may be your only hope. You can guide your crewmates from your ship, using the radar to call out traps and using the ship's terminal to access remotely locked doors--or you can all go in together. The Company store has many useful tools for the job, including lights, shovels, walkie talkies, stun grenades, or boomboxes.
+
+
+
+
+Things get dangerous at night. Communicate with your crewmates to carry all valuables to the ship before things get too dangerous, and try not to leave anyone behind.
+ОПИСАНИЕ КОНТЕНТА ДЛЯ ВЗРОСЛЫХ
+Разработчики описывают контент так:
+
+The game has a realistic atmosphere. Player characters can die through various means, some involving dismemberment or decapitation. Player characters can use fictional medical drugs recklessly.
+
+Цена: 385 pуб.
+
+Языки:
+		Интерфейс	Озвучка	Субтитры
+русский		Не поддерживается
+английский	✔		✔	
+
+
+
+
+Рейтинг: 12+
+
+Ссылка: https://store.steampowered.com/app/1966720/Lethal_Company/
