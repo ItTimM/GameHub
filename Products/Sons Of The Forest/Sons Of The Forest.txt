@@ -1,0 +1,57 @@
+ID: 1326470
+
+Назавние: Sons Of The Forest
+
+Жанр: Survival-Horror
+
+Разработчик: Endnight Games Ltd
+
+Издатель: Newnight
+
+Дата_выпуска: 22 фев. 2024 г.
+ДАТА ВЫПУСКА В РАННЕМ ДОСТУПЕ: 23 фев. 2023 г.
+
+СИСТЕМНЫЕ ТРЕБОВАНИЯ
+МИНИМАЛЬНЫЕ:
+64-разрядные процессор и операционная система
+ОС: 64-bit Windows 10
+Процессор: INTEL CORE I5-8400 or AMD RYZEN 3 3300X
+Оперативная память: 12 GB ОЗУ
+Видеокарта: NVIDIA GeForce GTX 1060 3GB or AMD Radeon RX 570 4GB
+DirectX: версии 11
+Место на диске: 20 GB
+Дополнительно: SSD (Preferred)
+РЕКОМЕНДОВАННЫЕ:
+64-разрядные процессор и операционная система
+ОС: 64-bit Windows 10
+Процессор: INTEL CORE I7-8700K or AMD RYZEN 5 3600X
+Оперативная память: 16 GB ОЗУ
+Видеокарта: NVIDIA GeForce 1080Ti or AMD Radeon RX 5700 XT
+DirectX: версии 11
+Место на диске: 20 GB
+Дополнительно: SSD (Preferred)
+
+Описание: ОБ ЭТОЙ ИГРЕ
+An entirely new experience from the makers of the ‘The Forest’
+
+Sent to find a missing billionaire on a remote island, you find yourself in a cannibal-infested hellscape. Craft, build, and struggle to survive, alone or with friends, in this terrifying new open-world survival horror simulator.
+
+ОПИСАНИЕ КОНТЕНТА ДЛЯ ВЗРОСЛЫХ
+Разработчики описывают контент так:
+
+Sons Of The Forest contains intense violence, blood and gore, as well as horror themes and occasional nudity.
+
+Цена: 1100 pуб.
+
+Языки:
+		Интерфейс	Озвучка	Субтитры
+русский		✔			✔
+английский	✔		✔	✔
+французский	✔			✔
+итальянский	✔			✔
+немецкий	✔			✔
+
+
+Рейтинг: 18+
+
+Ссылка: https://store.steampowered.com/app/1326470/Sons_Of_The_Forest/

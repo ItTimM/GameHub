@@ -1,0 +1,49 @@
+ID: 322330
+
+Назавние: Don't Starve Together
+
+Жанр: Выживание
+
+Разработчик: Klei Entertainment
+
+Издатель: Klei Entertainment
+
+Дата_выпуска: 21 апр. 2016 г.
+
+СИСТЕМНЫЕ ТРЕБОВАНИЯ
+МИНИМАЛЬНЫЕ:
+ОС *: Windows Vista/Windows 7/Windows 8
+Процессор: 1.7+ GHz or better
+Оперативная память: 1 GB ОЗУ
+Видеокарта: Radeon HD5450 or better; 256 MB or higher
+DirectX: версии 9.0c
+Сеть: Широкополосное подключение к интернету
+Место на диске: 3 GB
+Звуковая карта: 100% DirectX9.0c compatible sound card and drivers
+
+Описание: ОБ ЭТОЙ ИГРЕ
+ОБ ЭТОЙ ИГРЕ
+
+Fight, Farm, Build and Explore Together in the standalone multiplayer expansion to the uncompromising wilderness survival game, Don't Starve.
+
+Enter a strange and unexplored world full of odd creatures, hidden dangers, and ancient secrets. Gather resources to craft items and build structures that match your survival style. Play your way as you unravel the mysteries of "The Constant".
+
+Cooperate with your friends in a private game, or find new friends online. Work with other players to survive the harsh environment, or strike out on your own.
+
+Do whatever it takes, but most importantly, Don't Starve.
+
+Цена: 349 pуб.
+
+Языки:
+			Интерфейс	Озвучка	Субтитры
+русский			✔		✔	✔
+английский		✔		✔	✔
+китайский (упр.)	✔		✔	✔
+французский		✔		✔	✔
+итальянский		✔		✔	✔
+
+
+
+Рейтинг: 12+
+
+Ссылка: https://store.steampowered.com/app/322330/Dont_Starve_Together/
